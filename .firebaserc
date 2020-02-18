@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "tictactoe-youssef"
+  },
+  "targets": {
+    "tictactoe-youssef": {
+      "hosting": {
+        "tictactoe": [
+          "tictactoe-youssef"
+        ]
+      }
+    }
+  }
+}
