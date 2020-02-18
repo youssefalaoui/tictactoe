@@ -5,12 +5,12 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: 'AIzaSyBhYHoy2hK3rRXf_pzrF7wcPdH5ewnGdUM',
+    apiKey: '',
     authDomain: 'tictactoe-youssef.firebaseapp.com',
     databaseURL: 'https://tictactoe-youssef.firebaseio.com',
-    projectId: 'tictactoe-youssef',
-    storageBucket: 'tictactoe-youssef.appspot.com',
-    messagingSenderId: '304126191023',
+    projectId: '',
+    storageBucket: '',
+    messagingSenderId: '',
   }
 };
 
